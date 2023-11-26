@@ -60,7 +60,8 @@
     - Status:
       - Just works fine.
     - EFI
-     - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_RX560_P310S/OC_P310S.zip). 
+     - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_RX560_P310S/OC_P310S.zip).
+![Hackintosh1](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_RX560_P310S/iMac_RX560_32G.png)
 2. iMac Monterey
    - Hardwares:
      - Motherboard: B360
@@ -71,7 +72,8 @@
      - Just works fine.
    - EFI
      - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Monterey_RX550_P310S/EFI_RX550.zip).
-3. MacBook Pro Ventura
+![Hackintosh2](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Monterey_RX550_P310S/pics/screen_shot.jpg)
+1. MacBook Pro Ventura
    - Hardwares:
      - Acer AN515-43(Ryzen 3550H, Vega8, RX560X, HID I2C touchpad)
      - Wifi: Intel 7260AC
@@ -79,3 +81,4 @@
      - Just works fine. However, there are some limitations from Ryzen platform, see [NootedRed](https://chefkissinc.github.io/nred/).
  - EFI
    - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/OC_AMD_AN515-43.zip)
+![Ryzentosh](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/macbook.png)
