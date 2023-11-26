@@ -77,3 +77,5 @@
      - Wifi: Intel 7260AC
    - Status:
      - Just works fine. However, there are some limitations from Ryzen platform, see [NootedRed](https://chefkissinc.github.io/nred/).
+ - EFI
+   - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/OC_AMD_AN515-43.zip)
