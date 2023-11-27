@@ -58,8 +58,32 @@
 - [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
 - [Android simulator workaroud suggestions](https://github.com/allansrc/AMD-OSX-Ryzentosh-B350)
 
+## Docker-OSX(using MacOS in docker)
+----------------------
+
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+
+## Useful free apps for MacOS
+----------------------
+
+- [stats](https://github.com/exelban/stats)
+- [raycast](https://www.raycast.com/)
+- [karabiner-elements](https://karabiner-elements.pqrs.org/)
+- [peazip](https://github.com/peazip/PeaZip)
+- [appflowy](https://github.com/AppFlowy-IO/AppFlowy)
+- [neatdownloadmanager](https://www.neatdownloadmanager.com/index.php/en/)
+- [betterdisplay](https://github.com/waydabber/BetterDisplay)
+- [notepad--](https://github.com/cxasm/notepad--)
+- [fig player](https://apps.apple.com/in/app/fig-player-play-mp4-mkv-mp3/id1612400976?mt=12)
+- [android file transfer](https://www.android.com/filetransfer/)
+- [iriun webcam](https://iriun.com/)
+- [telegramlite](https://apps.apple.com/us/app/telegram-lite/id946399090?mt=12)
+- [edge browser](https://www.microsoft.com/en-us/edge/download?form=MA13FJ)
+- [foxit reader](https://www.foxit.com/pdf-reader/)
+- [vscode](https://code.visualstudio.com/download)
+
 ## My examples
-------------------
+----------------------
 
 1. iMac Ventura
     - Hardwares:
@@ -95,8 +119,3 @@
    - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/OC_AMD_AN515-43.zip)
 
 ![Ryzentosh](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/macbook.png)
-
-## Docker-OSX(using MacOS in docker)
-----------------------
-
-- [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
