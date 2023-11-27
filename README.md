@@ -51,6 +51,7 @@
   - [issue_129](https://github.com/dortania/bugtracker/issues/129)
 - [How to adjust PowerPlayTable for AMD GPU](https://www.reddit.com/r/hackintosh/comments/hg56pv/guide_polaris_rx_560_580_etc_custom_powerplay/)
   - [video](https://www.bilibili.com/video/BV1ZT4y1v7Ac/?spm_id_from=333.337.search-card.all.click&vd_source=1835c845bf533ce47c2b4d33db3419b5)
+- [各种kext的功能列表](https://macoshome.com/hackintosh/hcourse/7656.html)
 
 ## My examples
 ------------------
