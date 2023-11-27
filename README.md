@@ -56,6 +56,7 @@
 - [Docker workaround for Ryzentosh 2](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
 - [VSCode/Chrome/Chromium-based workaroud for Ryzentosh](https://chefkissinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)
 - [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
+- [Android simulator workaroud suggestions](https://github.com/allansrc/AMD-OSX-Ryzentosh-B350)
 
 ## My examples
 ------------------
