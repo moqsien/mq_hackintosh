@@ -40,6 +40,10 @@
 - [Noot](https://chefkissinc.github.io/guide/gathering-files/kexts), with AMD laptops supported.
 - [NootedRed](https://chefkissinc.github.io/nred), for AMD iGPU.
 - [GenericUSBXHCI for Ryzen](https://github.com/RattletraPM/GUX-RyzenXHCIFix), makes your trackpad work properly on Ryzen platform.
+- [Docker workaround for Ryzentosh 1](https://gist.github.com/sergeycherepanov/cbe82132b2064cc62b16793b6c61e6c8)
+- [Docker workaround for Ryzentosh 2](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
+- [VSCode/Chrome/Chromium-based workaroud for Ryzentosh](https://chefkissinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)
+- [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
 - [AMD GPU sensor](https://github.com/ChefKissInc/RadeonSensor)
 - [AMD GPU Spoof](https://dortania.github.io/Getting-Started-With-ACPI/Universal/spoof.html), you may need this for Faking AMD GPU ID.
 - [Get RX550 with lexa cores to work](https://www.youtube.com/watch?v=xb5yKRhOtp0)
@@ -85,3 +89,6 @@
    - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/OC_AMD_AN515-43.zip)
 
 ![Ryzentosh](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/macbook.png)
+
+## Docker-OSX(using MacOS in docker)
+- [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
