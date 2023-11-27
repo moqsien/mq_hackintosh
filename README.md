@@ -19,16 +19,16 @@
 - [Installer Flasher](https://etcher.balena.io/)
   - [BalenaEtcher](https://etcher.balena.io/)
   - [Rufus](https://github.com/pbatard/rufus)
-  - [Ventoy](https://github.com/ventoy/Ventoy), doesn't support darwin directly.
+  - [Ventoy](https://github.com/ventoy/Ventoy), which doesn't support darwin directly.
 
-- [IASL Tools](https://github.com/ic005k/Xiasl), in case you need to compile your modified ACPI files.
+- [IASL Tools](https://github.com/ic005k/Xiasl), in case you need to compile your modified ACPI files for hot patching.
   - [For Windows](https://www.intel.com/content/www/us/en/developer/topic-technology/open/acpica/download.html)
   - [For MacOS](https://github.com/HelllGuest/acpica-tools-macos)
   - [For win/mac/linux](https://github.com/ic005k/Xiasl), with GUI, can save/edit/compile/decompile ACPI files.
 
-- [USBToolBox](https://github.com/USBToolBox/tool), If you have USB3.0, you will need this.
+- [USBToolBox](https://github.com/USBToolBox/tool), If you have USB 3.0, you will need this.
 
-- [SSDTTime](https://github.com/corpnewt/SSDTTime), help you to collect your own SSDT files.
+- [SSDTTime](https://github.com/corpnewt/SSDTTime), which helps you to collect your own SSDT files.
 
 - [HackinTool](https://github.com/benbaker76/Hackintool)
 
@@ -40,10 +40,6 @@
 - [Noot](https://chefkissinc.github.io/guide/gathering-files/kexts), with AMD laptops supported.
 - [NootedRed](https://chefkissinc.github.io/nred), for AMD iGPU.
 - [GenericUSBXHCI for Ryzen](https://github.com/RattletraPM/GUX-RyzenXHCIFix), makes your trackpad work properly on Ryzen platform.
-- [Docker workaround for Ryzentosh 1](https://gist.github.com/sergeycherepanov/cbe82132b2064cc62b16793b6c61e6c8)
-- [Docker workaround for Ryzentosh 2](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
-- [VSCode/Chrome/Chromium-based workaroud for Ryzentosh](https://chefkissinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)
-- [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
 - [AMD GPU sensor](https://github.com/ChefKissInc/RadeonSensor)
 - [AMD GPU Spoof](https://dortania.github.io/Getting-Started-With-ACPI/Universal/spoof.html), you may need this for Faking AMD GPU ID.
 - [Get RX550 with lexa cores to work](https://www.youtube.com/watch?v=xb5yKRhOtp0)
@@ -52,6 +48,14 @@
 - [How to adjust PowerPlayTable for AMD GPU](https://www.reddit.com/r/hackintosh/comments/hg56pv/guide_polaris_rx_560_580_etc_custom_powerplay/)
   - [video](https://www.bilibili.com/video/BV1ZT4y1v7Ac/?spm_id_from=333.337.search-card.all.click&vd_source=1835c845bf533ce47c2b4d33db3419b5)
 - [各种kext的功能列表](https://macoshome.com/hackintosh/hcourse/7656.html)
+
+## Special workarouds for Ryzentosh
+------------------
+
+- [Docker workaround for Ryzentosh 1](https://gist.github.com/sergeycherepanov/cbe82132b2064cc62b16793b6c61e6c8)
+- [Docker workaround for Ryzentosh 2](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
+- [VSCode/Chrome/Chromium-based workaroud for Ryzentosh](https://chefkissinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)
+- [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
 
 ## My examples
 ------------------
@@ -92,4 +96,6 @@
 ![Ryzentosh](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/macbook.png)
 
 ## Docker-OSX(using MacOS in docker)
+----------------------
+
 - [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
