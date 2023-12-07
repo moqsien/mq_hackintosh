@@ -1,4 +1,4 @@
-# This a simple instuctions list for Hackintosh.
+# This is a simple instuction list for Hackintosh.
 ----------------
 
 **Ok, let's hack!**
@@ -32,7 +32,7 @@
 
 - [HackinTool](https://github.com/benbaker76/Hackintool)
 
-## Some guides for kexts/ssdt collection
+## Some guidelines for kexts/ssdt collection
 -----------------
 
 - [Gathering files](https://dortania.github.io/OpenCore-Install-Guide/ktext.html)
@@ -40,6 +40,7 @@
 - [Noot](https://chefkissinc.github.io/guide/gathering-files/kexts), with AMD laptops supported.
 - [NootedRed](https://chefkissinc.github.io/nred), for AMD iGPU.
 - [GenericUSBXHCI for Ryzen](https://github.com/RattletraPM/GUX-RyzenXHCIFix), makes your trackpad work properly on Ryzen platform.
+  - Use "-vi2c-force-polling" in boot-args, then the trackpad will work properly for your Ryzentosh.
 - [AMD GPU sensor](https://github.com/ChefKissInc/RadeonSensor)
 - [AMD GPU Spoof](https://dortania.github.io/Getting-Started-With-ACPI/Universal/spoof.html), you may need this for Faking AMD GPU ID.
 - [Get RX550 with lexa cores to work](https://www.youtube.com/watch?v=xb5yKRhOtp0)
