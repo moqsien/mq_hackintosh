@@ -55,6 +55,7 @@
 
 - [Docker workaround for Ryzentosh 1](https://gist.github.com/sergeycherepanov/cbe82132b2064cc62b16793b6c61e6c8)
 - [Docker workaround for Ryzentosh 2](https://gist.github.com/slykar/e92732be9bf81a71e08068245656d70e)
+- [Docker using VirtualBox](https://github.com/sergeycherepanov/homebrew-docker-virtualbox)
 - [VSCode/Chrome/Chromium-based workaroud for Ryzentosh](https://chefkissinc.github.io/nred#chrome-chromium-based-browsers-and-apps-like-sublime-text-cause-graphical-artefacts-amongst-other-problems)
 - [An elegant way solving VSCode/Chromium-based browser(OpenGL-related) problems](https://github.com/ChefKissInc/NootedRed/issues/158)
 - [Wechat/QQ workaroud for Ryzentosh](https://pan.xunlei.com/s/VNhkaG568VndHC4GhWdbW0nhA1?pwd=ng2g#)
