@@ -50,6 +50,10 @@
   - [video](https://www.bilibili.com/video/BV1ZT4y1v7Ac/?spm_id_from=333.337.search-card.all.click&vd_source=1835c845bf533ce47c2b4d33db3419b5)
 - [各种kext的功能列表](https://macoshome.com/hackintosh/hcourse/7656.html)
 
+## Wifi hacking for Sequoial 15.2
+
+- [read issue](https://github.com/OpenIntelWireless/itlwm/issues/1009#issuecomment-2370919270)
+
 ## Special workarouds for Ryzentosh
 ------------------
 
