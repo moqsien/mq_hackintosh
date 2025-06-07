@@ -126,3 +126,6 @@
    - [Download](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/OC_AMD_AN515-43.zip)
 
 ![Ryzentosh](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Ventura_Ryzen5_AN515-43/macbook.png)
+
+![RX5700-1](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Sequia_RX5700_P310S/pics/sequia_rx5700.png)
+![RX5700-2](https://github.com/moqsien/mq_hackintosh/blob/main/EFI_Sequia_RX5700_P310S/pics/sequia_rx5700_2.png)
